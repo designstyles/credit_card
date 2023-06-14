@@ -1,0 +1,32 @@
+{
+    "app_title": "Wallet App",
+    "cards": {
+        "list": {
+            "title": "Wallet",
+            "add": "Add a card",
+            "empty": "No cards in your wallet.\nAdd one with a button below.",
+            "delete_all": "Delete all",
+            "delete_all_dialog_message": "Are you sure you want to delete all your cards?",
+            "delete_all_dialog_yes": "Yes",
+            "delete_all_dialog_no": "No"
+        },
+        "details": {
+            "title_edit": "Card Details",
+            "title_add": "Add new Card",
+            "card_number": "Card Number",
+            "card_type": "Card Type",
+            "cvv": "Cvv",
+            "expiry_date": "Expiry (year)",
+            "save": "Save",
+            "delete": "Delete",
+            "select_country": "Select a country?"
+        }
+    },
+    "country":{
+        "list": {
+            "title": "Baned Countries",
+            "add": "Generate random list",
+            "empty": "No countries have been banned yet.\nGenerate 10 items with a button below."
+        }
+    }
+}

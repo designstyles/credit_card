@@ -1,0 +1,6 @@
+{
+"explorer.fileNesting.enabled": true,
+"explorer.fileNesting.patterns": {
+"*.dart": "${capture}.details.dart, ${capture}.back.dart, ${capture}.name.dart, ${capture}.expiry.dart,${capture}.number.dart, ${capture}.bank.name.dart, ${capture}.light.dart, ${capture}.dark.dart, ${capture}.button.dart, ${capture}.g.dart, ${capture}.freezed.dart"
+},
+}

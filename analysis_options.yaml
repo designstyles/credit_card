@@ -1,0 +1,9 @@
+include: package:very_good_analysis/analysis_options.yaml
+linter:
+  rules:
+    public_member_api_docs: false
+analyzer:
+  exclude: 
+    - lib/app/di_packages/get_config.config.dart
+    - lib/app/engine/translations/codegen_loader.g.dart
+    - lib/app/engine/translations/locale_keys.g.dart
